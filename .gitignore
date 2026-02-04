@@ -1,0 +1,13 @@
+venv/
+
+data/
+
+__pycache__/
+*.pyc
+
+*.keras
+models/
+
+.vscode/
+.DS_Store
+
